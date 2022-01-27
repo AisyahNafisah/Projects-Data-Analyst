@@ -1,1 +1,1 @@
-# Projects-Data-Analyst
+# SQL Tutorial
